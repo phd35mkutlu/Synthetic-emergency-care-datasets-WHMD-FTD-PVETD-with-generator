@@ -80,9 +80,9 @@ against the published values.
 
 ## Licensing
 
-The datasets, figures and analysis artefacts are released under **CC BY 4.0**.
-The contents of `src/` and `generator/` are released under the **MIT licence**;
-a copy is in `LICENSE-MIT`.
+The datasets, figures and analysis artefacts are released under **CC BY 4.0**;
+see `LICENSE-CC-BY-4.0`. The contents of `src/` and `generator/` are released
+under the **MIT licence**; see `LICENSE-MIT`.
 
 No content from the Integrated Emergency Response Dataset is included here, so
 its ShareAlike term is not engaged. That dataset is cited, not redeposited.
